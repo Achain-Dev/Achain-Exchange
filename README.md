@@ -3,9 +3,10 @@ Wallets documents and code examples
 
 First, be sure to read the documentation in the directory 
 
-Achain-Exchange/Documents/Guide for exchange.pdf
+[Guide for exchange.pdf](https://github.com/Achain-Dev/Achain-Exchange/blob/master/Documents/Guide%20for%20exchange.pdf)
 
-Achain-Exchange/Documents/交易所对接指南.pdf
+[交易所对接指南.pdf](https://github.com/Achain-Dev/Achain-Exchange/blob/master/Documents/%E4%BA%A4%E6%98%93%E6%89%80%E5%AF%B9%E6%8E%A5%E6%8C%87%E5%8D%97.pdf)
+
 
 RPC Document：https://www.achain.com/help/rpc.html
 
